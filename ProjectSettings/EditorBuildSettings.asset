@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
+    path: Assets/Scenes/VR Tutorial.unity
+    guid: 3d8045c5432b74f4484c08991b30081f
   m_configObjects:
     com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 12859ae9eed4e5a4e9f95e871d2a0e15, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 033f901bbcb23aa49b63c98a50073b29, type: 2}
